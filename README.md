@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajeev014877226" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev014877226?logo=twitter&style=for-the-badge" alt="rajeev014877226" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently pursuing B.tech in Computer science(4th year)
 
 - 📝 I regularly write articles on [https://slashtechtrends.com/](https://slashtechtrends.com/)
 
