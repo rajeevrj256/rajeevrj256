@@ -44,7 +44,8 @@
 
 ###
 
-<p align="left">A passionate Full stack developer from India<br><br>- 🔭 I’m currently pursuing B.tech in Computer science(4th year)<br>- 📚 I regularly write articles on https://slashtechtrends.com/<br>-📫 How to reach me rjrajeev5918@gmail.com<br>-📄 Know about my experiences Portfoilo<br>- ⚡ In my free time I enjoy to learn new things</p>
+<p align="left">A passionate Full stack developer from India<br><br>- 🔭 I’m currently pursuing B.tech in Computer science(4th year)<br>- 📚 I regularly write articles on https://slashtechtrends.com/<br>-📫 How to reach me 
+  <a href="mailto:rjrajeev5918@gmail.com" > rjrajeev5918@gmail.com </a> <br>-📄 Know about my experiences <a href="https://portfoilo-githud-io.onrender.com/" > Portfoilo</a><br>- ⚡ In my free time I enjoy to learn new things</p>
 
 ###
 
