@@ -1,114 +1,259 @@
 <div align="center">
-  <img  src="https://github.com/rajeevrj256/rajeevrj256/blob/main/github-header-image%20(1).png"  />
+
+<img src="https://github.com/rajeevrj256/rajeevrj256/blob/main/github-header-image%20(1).png"/>
+
+# Hi 👋, I'm Rajiv Ranjan
+
+### Backend Engineer | Java | Spring Boot | FinTech Systems
+
+Building scalable backend systems, trading platforms & data-driven applications 🚀
+
 </div>
 
-###
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/rajiv-ranjan256" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo 1"  />
-  </a>
-  <a href="https://x.com/rajeev014877226" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/rj._rajeev/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="rj_rajeev256" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:rjrajeev5918@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<a href="http://www.linkedin.com/in/rajiv-ranjan256">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rjrajeev5918@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+
+---
+
+# 👨‍💻 About Me
+
+
+<img align="right" height="200"
+src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
+
+
+I am a Backend Engineer from India 🇮🇳 passionate about designing scalable backend systems and financial technology applications.
+
+
+- 💻 Building backend applications using Java & Spring Boot
+
+- 📈 Developing Algorithmic Trading and Stock Analytics platforms
+
+- ⚙️ Interested in Distributed Systems, FinTech and System Design
+
+- 🔥 Exploring High Performance Backend Engineering
+
+- 🌱 Learning Kafka, Redis, Cloud Infrastructure & Open Source
+
+- ✍️ Writing technical blogs
+
+- 📫 Contact: **rjrajeev5918@gmail.com**
+
+
+<br/>
+
+
+---
+
+
+# 🛠 Tech Stack
+
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
+
+</p>
+
+
+## Database & Messaging
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka"/>
+
+</p>
+
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github"/>
+
+</p>
+
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript"/>
+
+</p>
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+
+## 📈 Algo Trading Platform
+
+
+Backend platform for automated trading strategies, market analysis and trading automation.
+
+
+**Tech Stack**
+
+`Java` `Spring Boot` `REST APIs` `Database`
+
+
+### Features
+
+
+✔ Trading strategy engine
+
+✔ Market data processing
+
+✔ Stock signal generation
+
+✔ Broker API integration
+
+✔ Backend API architecture
+
+
+🔗 Repository:
+
+https://github.com/rajeevrj256/algoTrading
+
+
+
+---
+
+
+
+## 📊 Intraday Stock Selector
+
+
+Backend application that analyzes market data and selects potential intraday trading opportunities.
+
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Data Processing`
+
+
+### Features
+
+
+✔ Daily stock scanning
+
+✔ Market analysis
+
+✔ Technical indicator filtering
+
+✔ Automated stock ranking
+
+✔ Watchlist generation
+
+
+🔗 Repository:
+
+https://github.com/rajeevrj256/stock-selector-intraday
+
+
+
+---
+
+
+# 🌱 Open Source Goals
+
+
+Currently focusing on:
+
+
+- Java ecosystem
+
+- Spring Boot projects
+
+- Backend infrastructure
+
+- Developer tools
+
+
+Goals:
+
+
+✔ Fix real-world issues
+
+✔ Contribute production-quality code
+
+✔ Improve system design skills
+
+
+
+---
+
+
+# 📊 GitHub Stats
+
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajeevrj256.rajeevrj256&"  />
+
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=rajeevrj256&show_icons=true&theme=dark"/>
+
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevrj256&layout=compact&theme=dark"/>
+
+
+<br/>
+
+
+<img height="200"
+src="https://streak-stats.demolab.com?user=rajeevrj256&theme=dark"/>
+
+
 </div>
 
-###
 
-<h1 align="center">Hi 👋, I'm Rajiv Ranjan</h1>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"  />
-
-###
-
-<p align="left">A passionate Full stack developer from India<br><br>- 🔭 I’m currently pursuing B.tech in Computer science(4th year)<br>- 📚 I regularly write articles on https://slashtechtrends.com/<br>-📫 How to reach me 
-  <a href="mailto:rjrajeev5918@gmail.com" > rjrajeev5918@gmail.com </a> <br>-📄 Know about my experiences <a href="https://portfoilo-githud-io.onrender.com/" > Portfoilo</a><br>- ⚡ In my free time I enjoy to learn new things</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+---
 
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajeevrj256&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph/ currently not avaiable"  />
+
+<a href="http://www.linkedin.com/in/rajiv-ranjan256">
+<img 
+src="https://img.shields.io/badge/Rajiv_Ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+title="LinkedIn"
+/>
+</a>
+
+
+<a href="mailto:rjrajeev5918@gmail.com">
+<img 
+src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+title="Email"
+/>
+</a>
+
+
+<a href="https://x.com/rajeev014877226">
+<img
+src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
+title="Twitter"
+/>
+</a>
+
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevrj256&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevrj256&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rajeevrj256/rajeevrj256/output/snake.svg" alt="Snake animation" />
-
-###
